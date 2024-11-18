@@ -2,6 +2,7 @@ import noteSpot from '../assets/projects/noteSpot.png'
 import tubeFetch from '../assets/projects/tubeFetch.png'
 import TypingTest from "../assets/projects/TypingTest.png"
 import Frienderrr from "../assets/projects/Frienderrr.png"
+import Flickerr from "../assets/projects/Flickerr.png"
 
 export const data=[
     {
@@ -31,6 +32,13 @@ export const data=[
         image: TypingTest,
         github:"",
         live:"https://ajeetchoubey.github.io/Typing-Speed-Test/",
+    },
+    {
+        id:5,
+        name:"Flickerr",
+        image: Flickerr,
+        github:"",
+        live:"https://flickerr-1.onrender.com/",
     },
 
 
